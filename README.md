@@ -1,7 +1,5 @@
 # Pneumonia Detection from Chest X-Ray (CNNs)
 
-Concise project overview and results — formatted for a GitHub README.
-
 ## Goal
 
 Binary classification (**Normal** vs **Pneumonia**) from chest X‑ray images. Emphasis on **high sensitivity** (low false negatives) and comparison of **custom CNNs** vs **transfer learning** models.
